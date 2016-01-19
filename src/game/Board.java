@@ -13,7 +13,6 @@ public class Board {
 
 	List<Field> board = new ArrayList<Field>(40);
 	
-	
 	public Board() {
 		String[] streetNames = {"Street1","Street2","Street3"
 		                        ,"Street4","Street5","Street6"
